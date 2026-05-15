@@ -6,10 +6,12 @@ This repository tracks devices officially supported by **CortenaOS**. Each devic
 
 ## Supported Devices
 
--
+| Device Name              | Code Name | URL                                                       |
+| ------------------------ | --------- | --------------------------------------------------------- |
+| Xiaomi Redmi Note 9      | Merlin    | [Repository](https://github.com/cortenaos-devices/merlin) |
+| Xiaomi Redmi Note 10 Pro | Sweet     | [Repository](https://github.com/cortenaos-devices/sweet)  |
 
 ## Notes
 
-- Each branch in this repository corresponds to a supported device.
 - Device branches contain a `README.md` with specs and references (e.g., [GSMArena](https://www.gsmarena.com)).
 - Main (`default`) branch only lists all supported devices.
